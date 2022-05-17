@@ -11,4 +11,4 @@ https://github.com/Youded-byte/NickHiderLimitless
 https://github.com/Youded-byte/LunarPerformance
 
 ## Explanation for LunarBetterHurtCam
-[LunarBetterHurtCam]](https://github.com/Youded-byte/LunarBetterHurtCam) is included in my fork of [lunar-client-qt](https://github.com/Youded-byte/lunar-client-qt) and is therefore not included in this repo.
+[LunarBetterHurtCam](https://github.com/Youded-byte/LunarBetterHurtCam) is included in my fork of [lunar-client-qt](https://github.com/Youded-byte/lunar-client-qt) and is therefore not included in this repo.
