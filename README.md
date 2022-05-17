@@ -2,13 +2,13 @@
 My agents for lunar-client, best used with [lunar-client-qt](https://github.com/Youded-byte/lunar-client-qt).
 
 ## LunarAccurateReachDisplay
-https://github.com/Youded-byte/LunarAccurateReachDisplay
+This agent removes the cap of 3.0 reach in the reach display mod included in lunar client. This cap is unnecesarry and even misleading, as on rare occasions a hit can be landed at a slightly larger distance. This agent also removes the rounding of reach if the decimal ends with a zero, e.g. 0.00 being rounded to 0, as it can be unwanted for the size of the box to change frequently. You can pass the option/argument "round" in order for the agent not to change the rounding system.
 
 ## NickHiderLimitless
-https://github.com/Youded-byte/NickHiderLimitless
+Allows changing of your own name, when using nickhider to a longer name.
 
 ## LunarPerformance
-https://github.com/Youded-byte/LunarPerformance
+This agent applies patches to Minecraft and surrounding mods in order to increase performance.
 
 ## LunarBetterHurtCam
 [LunarBetterHurtCam](https://github.com/Youded-byte/LunarBetterHurtCam) is included in my fork of [lunar-client-qt](https://github.com/Youded-byte/lunar-client-qt) and is therefore not included in this repo.
