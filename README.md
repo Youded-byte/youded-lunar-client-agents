@@ -5,7 +5,7 @@ My agents for lunar-client, best used with [lunar-client-qt](https://github.com/
 This agent removes the cap of 3.0 reach in the reach display mod included in lunar client. This cap is unnecesarry and even misleading, as on rare occasions a hit can be landed at a slightly larger distance. This agent also removes the rounding of reach if the decimal ends with a zero, e.g. 0.00 being rounded to 0, as it can be unwanted for the size of the box to change frequently. You can pass the option/argument "round" in order for the agent not to change the rounding system.
 
 ## NickHiderLimitless
-Allows changing of your own name, when using nickhider to a longer name.
+Allows you to give yourself any custom NickHider username by passing it as an option/argument. Colour codes can be passed but must be passed for example by using "&4" instead of "§4". Also removes restrictions on what custom NickHider name you can add inside of the game.
 
 ## LunarPerformance
 This agent applies patches to Minecraft and surrounding mods in order to increase performance.
